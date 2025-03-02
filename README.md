@@ -28,13 +28,7 @@ I am a Product Manager and current Recruitment Ambassador, leading a team of amb
 *Current Role*
 - Lead a team of ambassadors focused on recruiting top-tier talent in the tech industry.
 - Collaborate with cross-functional teams to develop strategies for talent acquisition.
-
-### **Software Engineer**  
-**Nwaah Security Inc., Toronto, Canada**  
-*July 2022 - August 2023*
-- Reduced security incidents by 75% through automated monitoring systems.
-- Led optimization efforts to improve system performance by 40%.
-- Achieved 99.99% uptime for critical systems and trained over 200 employees on security best practices.
+- 
 
 ### **Sales Associate with Product Focus**  
 **Stripe Inc., Chicago, IL**  
