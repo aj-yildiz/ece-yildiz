@@ -27,8 +27,7 @@ I am a Product Manager and current Recruitment Ambassador, leading a team of amb
 ### **Recruitment Ambassador**  
 *Current Role*
 - Lead a team of ambassadors focused on recruiting top-tier talent in the tech industry.
-- Collaborate with cross-functional teams to develop strategies for talent acquisition.
-- 
+- Collaborate with cross-functional teams to develop strategies for talent acquisition. 
 
 ### **Sales Associate with Product Focus**  
 **Stripe Inc., Chicago, IL**  
